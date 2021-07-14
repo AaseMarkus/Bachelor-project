@@ -1,17 +1,17 @@
 # MolendoAnsattAndroid
 This is the Android front end client.
 
-When you first open the app you get sent to a log in page where you enter your phone number and log in code. This uses JSON web tokens so you stay logged in even after you close the app.
+Log in page (Uses JSON web tokens to stay logged in)
 <br>
 <img width="600" src="../githubImages/AndroidLogIn.PNG">
 <br> <br>
 
-When logged in there is a calendar page where you can register your shifts. You do this by clicking on a day, then selecting when you want your shift to be.
+Calendar page for registering shifts. Done by clicking on a day then selecting when your shifts should be
 <br>
 <img width="300" src="../githubImages/CalendarWeek.PNG">
 <img width="300" src="../githubImages/CalendarDay.PNG">
 <br> <br>
 
-There is also a page for starting a shift or ending an ongoing shift with a single button press.
+Page for starting or stopping an ongoing shift with a single button click
 <br>
 <img width="900" src="../githubImages/AndroidStartStop.PNG">
