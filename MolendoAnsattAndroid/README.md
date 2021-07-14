@@ -1,5 +1,5 @@
 # MolendoAnsattAndroid
-This is the Android front end client.
+This is a basic overview of the Android frontend client
 
 Log in page (Uses JSON web tokens to stay logged in)
 <br>
