@@ -1,0 +1,4 @@
+oslomet/bachelorprosjekt/molendoansatt/RegistrationHandlerTest.java
+ oslomet.bachelorprosjekt.molendoansatt.RegistrationHandlerTest
+oslomet/bachelorprosjekt/molendoansatt/RegistrationTest.java
+ oslomet.bachelorprosjekt.molendoansatt.RegistrationTest

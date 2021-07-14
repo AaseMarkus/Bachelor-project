@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\..\..\Desktop\MolendoAspNet</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\..\..\Desktop\MolendoAspNet</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="DAL\" />
+    <Folder Include="Models\" />
+    <Folder Include="Properties\PublishProfiles\" />
+    <Folder Include="Logs\" />
+    <Folder Include="Auth\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="3.1.12" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.12">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.14" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="MolendoTest\MolendoRepositoryTest.cs" />
+    <Compile Remove="MolendoTest\Startup.cs" />
+    <Compile Remove="MolendoTest\MolendoControllerTest.cs" />
+    <Compile Remove="MolendoTest\Program.cs" />
+    <Compile Remove="MolendoTest\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.AssemblyInfo.cs" />
+    <Compile Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.MvcApplicationPartsAssemblyInfo.cs" />
+    <Compile Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.AssemblyInfo.cs" />
+    <Compile Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.MvcApplicationPartsAssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MolendoTest\obj\MolendoTest.csproj.nuget.g.targets" />
+    <None Remove="MolendoTest\obj\MolendoTest.csproj.nuget.g.props" />
+    <None Remove="MolendoTest\obj\project.nuget.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.csprojAssemblyReference.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.assets.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.csproj.FileListAbsolute.txt" />
+    <None Remove="MolendoTest\obj\MolendoTest.csproj.nuget.g.props" />
+    <None Remove="MolendoTest\obj\MolendoTest.csproj.nuget.g.targets" />
+    <None Remove="MolendoTest\obj\project.nuget.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.csprojAssemblyReference.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.csproj.CoreCompileInputs.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.MvcApplicationPartsAssemblyInfo.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.csprojAssemblyReference.cache" />
+    <None Remove="MolendoTest\obj\Debug\netcoreapp3.1\MolendoTest.MvcApplicationPartsAssemblyInfo.cache" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_triangle_arrow.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_triangle_arrow.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_molendo_launcher.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xxhdpi/molendo_launcher.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi_molendo_launcher_round.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-mdpi/molendo_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_dialog_new_time.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/dialog_new_time.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi_molendo_launcher.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-mdpi/molendo_launcher.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_button_red_gradient.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/button_red_gradient.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xhdpi_molendo_launcher_round.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xhdpi/molendo_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_delete_small.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_delete_small.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi_molendo_launcher_foreground.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-hdpi/molendo_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_fragment_log_in_loading.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/fragment_log_in_loading.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_button_gradient.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/button_gradient.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_molendo_launcher_round.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xxhdpi/molendo_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_edittext_rounded.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/edittext_rounded.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_floppy_disk.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_floppy_disk.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_fragment_log_in_phone.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/fragment_log_in_phone.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_fragment_log_in_code.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/fragment_log_in_code.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_logout.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_molendo_launcher_foreground.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xxxhdpi/molendo_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_information.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_information.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_molendo_launcher_round.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-anydpi-v26/molendo_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_dailyplan_row.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/dailyplan_row.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_molendo_launcher.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xxxhdpi/molendo_launcher.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_molendo_launcher.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-anydpi-v26/molendo_launcher.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi_molendo_launcher_round.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-hdpi/molendo_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_weeklyplan_row.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/weeklyplan_row.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_activity_information.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/activity_information.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_home.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_magic_circle_logotypev2_300x174.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/magic_circle_logotypev2_300x174.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_calendar.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_molendo_launcher_round.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xxxhdpi/molendo_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_edit.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_fragment_daily_plan.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/fragment_daily_plan.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_add_time.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_add_time.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_close.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_fragment_weekly_plan.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/fragment_weekly_plan.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_right_arrow.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_right_arrow.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_button_green_gradient.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/button_green_gradient.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_molendo_launcher_foreground.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xxhdpi/molendo_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_login_bg_gradient.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/login_bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/layout_activity_application.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/layout/activity_application.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xhdpi_molendo_launcher.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xhdpi/molendo_launcher.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_phone.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/drawable_ic_key.xml.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/drawable/ic_key.xml"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi_molendo_launcher_foreground.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-mdpi/molendo_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi_molendo_launcher.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-hdpi/molendo_launcher.png"
+    },
+    {
+        "merged": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/build/intermediates/res/merged/debug/mipmap-xhdpi_molendo_launcher_foreground.png.flat",
+        "source": "/Users/rune/AndroidStudioProjects/MolendoAnsattAndroid/app/src/main/res/mipmap-xhdpi/molendo_launcher_foreground.png"
+    }
+]

@@ -1,0 +1,119 @@
+{
+    "weekdays": {
+        "0": "Mandag",
+        "1": "Tirsdag",
+        "2": "Onsdag",
+        "3": "Torsdag",
+        "4": "Fredag",
+        "5": "Lørdag",
+        "6": "Søndag"
+    },
+    "months": {
+        "0": "januar",
+        "1": "februar",
+        "2": "mars",
+        "3": "april",
+        "4": "mai",
+        "5": "juni",
+        "6": "juli",
+        "7": "august",
+        "8": "september",
+        "9": "oktober",
+        "10": "november",
+        "11": "desember"
+    },
+    "login": {
+        "login": "Logg inn",
+        "input-phone": "Fyll inn telefonnummer",
+        "phone-invalid": "Telefonnummeret er ikke registrert",
+        "send-sms": "Send SMS",
+        "code-sent": "En SMS-kode er sendt til",
+        "input-code": "Skriv inn koden",
+        "code-invalid": "Den oppgitte koden er ugyldig",
+        "menu-title": "Vis innstillinger",
+        "menu-service": "Tjeneste",
+        "menu-language": "Velg språk"
+    },
+    "nav": {
+        "calendar": "Kalender",
+        "information": "Informasjon",
+        "language": "Bytt språk",
+        "log-out": "Logg ut",
+        "menu": "Meny",
+        "home": "Hjem",
+        "acknowledgements": "Annerkjennelser"
+    },
+    "buttons": {
+        "reset": "Nullstill",
+        "copy": "Kopier",
+        "lock": "Lås",
+        "locked": "Låst",
+        "save": "Lagre",
+        "close": "Lukk",
+        "delete": "Slett",
+        "back": "Tilbake"
+    },
+    "week": {
+        "week": "Uke",
+        "minimize": "Minimer",
+        "expand": "Ekspander",
+        "navigate": "Naviger",
+        "scroll-left-title": "Rull til venstre",
+        "scroll-right-title": "Rull til høyre"
+    },
+    "day": {
+        "day": "Dag",
+        "new": "Ny"
+    },
+    "new": {
+        "start": "Start",
+        "end": "Slutt",
+        "open-ended": "Pilvakt",
+        "choose-start": "Velg starttid",
+        "set-time": "Velg tid",
+        "confirm": "Bekreft",
+        "invalid": "Ugyldig tid"
+    },
+    "save": {
+        "header": "Lagringsstatus",
+        "intro-title": "Vil du lagre endringene i databasen?",
+        "intro-subtitle": "Dette kan ikke angres",
+        "save": "Lagre",
+        "saved": "Lagret",
+        "save-successful": "Lagringen var vellykket",
+        "save-failed": "En feil oppstod",
+        "code": "Kode",
+        "details": "Detaljer",
+        "close": "Lukk",
+        "if-successful": "Lukk hvis vellykket",
+        "loading-title": "Kommuniserer med databasen...",
+        "loading-subtitle": "Vennligst vent"
+    },
+    "copy": {
+        "copy-to": "Kopier til"
+    },
+    "delete" : {
+        "title": "Pågående vakt",
+        "body": "Du prøvde å slette en pågående vakt, er du sikker på at du vil avslutte denne vakten?",
+        "yes": "Ja",
+        "close": "Lukk" 
+    },
+    "information": {
+        "acknowledgements-title": "Annerkjennelser",
+        "acknowledgements-subtitle": "Denne web-tjenesten benytter programvare med åpen kildekode og grafiske ressurser utviklet av tredjeparter. Disse er beskrevet under med de gjeldende lisensavtalene.",
+        "shiftregistrations-title": "Vaktregistreringer"
+    },
+    "home": {
+        "not-on-shift": "Du er ikke på vakt",
+        "on-shift-until": "Du er på vakt til klokken",
+        "on-shift-openended": "Du er på vakt med ubestemt sluttid",
+        "start-shift": "Start vakt",
+        "end-shift": "Avslutt vakt"
+    },
+    "title": {
+        "calendar": "Kalender",
+        "login": "Innlogging",
+        "information": "Informasjon",
+        "home": "Vaktstatus"
+    }
+}

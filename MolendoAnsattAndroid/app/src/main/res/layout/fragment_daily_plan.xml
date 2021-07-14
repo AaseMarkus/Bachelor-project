@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#FDF7FF"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.DailyPlanFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_daily_plan"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintBottom_toTopOf="@id/btn_daily_reset"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@color/purple_100"
+        android:id="@+id/view_divider"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rv_daily_plan"
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_center_vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.55"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_daily_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:layout_marginStart="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="8dp"
+        android:paddingStart="17dp"
+        android:paddingEnd="17dp"
+        android:drawableEnd="@drawable/ic_delete_small"
+        android:drawableTint="#774747"
+        android:drawablePadding="10dp"
+        android:background="@drawable/button_red_gradient"
+        android:text="@string/reset"
+        android:textColor="#774747"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/guideline_center_vertical" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_daily_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:drawableEnd="@drawable/ic_floppy_disk"
+        android:drawableTint="#4d5f50"
+        android:paddingStart="17dp"
+        android:paddingEnd="17dp"
+        android:drawablePadding="10dp"
+        android:background="@drawable/button_green_gradient"
+        android:text="@string/save"
+        android:textColor="#4d5f50"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/guideline_center_vertical"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

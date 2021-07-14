@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="credits">
+        <item>Informasjon, Kalender and Nullstill ikoner laget av Freepik fra www.flaticon.com</item>
+        <item>Pil ikon laget av Roundicons fra www.flaticon.com</item>
+        <item>Hjem ikon laget av Dave Gandy fra www.flaticon.com</item>
+        <item>Logg ut ikon laget av Smashicons fra www.flaticon.com</item>
+        <item>Rediger og X ikoner laget av Pixel perfect fra www.flaticon.com</item>
+        <item>Triangel ikon laget av Alfredo Hernandez fra www.flaticon.com</item>
+        <item>Lagre ikon laget av Those Icons fra www.flaticon.com</item>
+    </string-array>
+    <string-array name="months">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>Mars</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    <string-array name="weekdays">
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+        <item>Søndag</item>
+    </string-array>
+    <string name="app_name">Molendo Ansatt</string>
+    <string name="cancel">Avbryt</string>
+    <string name="code_sent">En innloggingskode har blitt sendt på SMS til </string>
+    <string name="credits_title">Opphavsrettigheter</string>
+    <string name="dialog_edit">Endre tidspunkter</string>
+    <string name="edit_times">Endre Tidspunkter</string>
+    <string name="end_shift">Avslutt vakt</string>
+    <string name="enter_code">Skriv inn kode</string>
+    <string name="error_code">Ugyldig kode</string>
+    <string name="error_code_text">Vennligst sjekk at du har fylt inn riktig kode. Hvis denne feilmeldingen fortsetter ta kontakt med teknisk ansvarlig hos Molendo AB.</string>
+    <string name="error_phone">Ugyldig telefonnummer</string>
+    <string name="error_phone_text">Vennligst sjekk at du har fylt inn riktig telefonnummer. Hvis denne feilmeldingen fortsetter ta kontakt med teknisk ansvarlig hos Molendo AB.</string>
+    <string name="information_title">Informasjon</string>
+    <string name="log_in">Logg Inn</string>
+    <string name="new_code">Send ny kode</string>
+    <string name="no">Nei</string>
+    <string name="not_on_shift">Du er ikke på vakt</string>
+    <string name="on_shift_set_end">Du er på vakt frem til klokken </string>
+    <string name="on_shift_undecided_end">Du er på vakt med ubestemt sluttid</string>
+    <string name="phone_number">Telefonnummer</string>
+    <string name="reset">Nullstill</string>
+    <string name="reset_dialog_text_day">Er du sikker på at du vil nullstille valgte tider?</string>
+    <string name="reset_dialog_text_week">Er du sikker på at du vil nullstille registrerte vakter?</string>
+    <string name="save">Lagre</string>
+    <string name="save_dialog_text">Er du sikker på at du vil lagre nye tider?</string>
+    <string name="save_unsuccessful">Lagring feilet!</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="shift_multiple">vakter</string>
+    <string name="shift_singular">vakt</string>
+    <string name="start_shift">Start vakt</string>
+    <string name="status_code">Statuskode </string>
+    <string name="successful">Vellykket!</string>
+    <string name="successful_text">Vaktene har blitt lagret i databasen</string>
+    <string name="yes">Ja</string>
+</resources>

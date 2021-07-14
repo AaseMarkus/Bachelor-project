@@ -1,0 +1,20 @@
+.saveModal p:nth-of-type(1) {
+    font-size: 1.2rem
+}
+
+.saveModal .accordion svg {
+    margin-left: 0.5em;
+    opacity: 0.8
+}
+
+.saveModal .accordion .card-body {
+    font-family: 'Consolas'
+}
+
+.saveModal div.form-check {
+    margin-right: 0.6em
+}
+
+.saveModal p.loading {
+    font-style: italic
+}

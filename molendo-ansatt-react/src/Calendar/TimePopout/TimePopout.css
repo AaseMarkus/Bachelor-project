@@ -1,0 +1,41 @@
+.timePopoutContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.timePopoutContainer > div {
+    justify-content: center;
+}
+
+.timePopoutContainer div > .btn {
+    font-size: 1rem;
+    line-height: 120%;
+    flex-grow: 1
+}
+
+.timePopoutContainer > div:nth-child(2) {
+    margin-top: 0.7em
+}
+
+.timePopoutContainer div > .btn:nth-child(1) {
+    margin-right: 0.7em
+}
+
+/* Timepicker */
+.ant-picker-time-panel-column::after {
+    height: auto !important
+}
+
+span.anticon.anticon-swap-right svg {
+    vertical-align: initial
+}
+
+div.ant-picker {
+    flex-grow: 1;
+    min-width: 17em
+
+}
+
+div.ant-picker-input input {
+    text-align: center
+}

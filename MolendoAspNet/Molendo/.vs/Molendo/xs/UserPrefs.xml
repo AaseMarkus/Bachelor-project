@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B3C3A37B-E4C3-4243-96C4-9FC95A9CA7B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Molendo PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/MolendoRepository.cs">
+    <Files>
+      <File FileName="DAL/IMolendoRepository.cs" Line="18" Column="9" />
+      <File FileName="Controllers/MolendoController.cs" />
+      <File FileName="DAL/MolendoRepository.cs" Line="67" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Molendo" expanded="True">
+            <Node name="Molendo" expanded="True" selected="True">
+              <Node name="DAL" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>MolendoTest/MolendoTest.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <FunctionBreakpoint line="171" column="9" function="MolendoController.CreateRoster" language="C#" />
+      <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

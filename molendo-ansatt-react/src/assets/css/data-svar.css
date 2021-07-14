@@ -1,0 +1,370 @@
+/* Using less common names to avoid conflicts with Bootstrap */
+/* Colors for login background are set directly */
+
+div.data-svar {
+    --theme-primary: #367eba;
+    --theme-primary-2: #638db0;
+    --theme-primary-3: #76a1c5;
+    --theme-primary-4: #84acce;
+    --theme-primary-5: #92b6d5;
+    --theme-primary-6: #a4c4df;
+    --theme-primary-7: #b6d2ea;
+    --theme-primary-8: #dde9f3;
+    --theme-primary-9: #ebf3f9;
+    --theme-primary-shadow: rgba(61, 104, 137, 0.2); 
+
+    --theme-secondary: #597c4d;
+    --theme-secondary-2: #80a872;
+    --theme-secondary-3: #a5cb98;
+    
+    --theme-warning: #c29e00;
+    --theme-warning-2: #ccbb3f;
+    --theme-warning-3: #efe496;
+
+    --theme-success: #00AB4F;
+    --theme-success-2: #ade8bc;
+    --theme-success-3: #e1fce8;
+
+    --theme-error: #fc9b9b;
+    --theme-error-2: #fad4d4;
+    --theme-error-3: #cf3b3b;
+
+    --theme-confirm: #96b4fd;
+    --theme-confirm-2: #dae4fc;
+}
+
+/* Reusable buttons */
+div.data-svar button.warning {
+    color: #333 !important;
+    background-color: var(--theme-warning-3) !important;
+    border: 1px solid var(--theme-warning-2) !important
+}
+
+div.data-svar button.warning:hover,
+div.data-svar button.warning:focus {
+    background-color: var(--theme-warning-2) !important;
+}
+
+div.data-svar button.warning-hover {
+    background-color: var(--theme-warning-2) !important;
+    color: #333 !important;
+    border: 1px solid var(--theme-warning-2) !important
+}
+
+div.data-svar button.error {
+    color: #333 !important;
+    background-color: var(--theme-error-2) !important;
+    border: 1px solid var(--theme-error) !important
+}
+
+div.data-svar button.error:hover,
+div.data-svar button.error:focus {
+    background-color: var(--theme-error) !important;
+}
+
+div.data-svar button.success {
+    color: #333 !important;
+    background-color: var(--theme-success-3) !important;
+    border: 1px solid var(--theme-success-2) !important
+}
+
+div.data-svar button.success:hover,
+div.data-svar button.success:focus {
+    background-color: var(--theme-success-2) !important;
+}
+
+div.data-svar button.confirm {
+    color: #333 !important;
+    background-color: var(--theme-confirm-2) !important;
+    border: 1px solid var(--theme-confirm) !important
+}
+
+div.data-svar button.confirm:hover,
+div.data-svar button.confirm:focus {
+    background-color: var(--theme-confirm) !important;
+}
+
+
+/* Login */
+div.data-svar div.login div.logo {
+    background-image: url('./../images/data-svar-logo.png');
+}
+
+div.data-svar div.login {
+    background: linear-gradient(90deg, rgba(54,126,184,1) 0%, rgba(112,155,218,1) 20%, 
+    rgba(112,155,218,1) 80%, rgba(54,126,184,1) 100%);
+}
+
+div.data-svar div.login .form-label,
+div.data-svar div.login .form-text {
+    color: #eee
+}
+
+div.data-svar .login .form-control:focus {
+    box-shadow: 0 0 0 .2rem var(--theme-secondary);
+    border: 0
+}
+
+div.data-svar .login div.container .btn {
+    background-image: linear-gradient(to bottom, var(--theme-primary), var(--theme-secondary));
+    border: 0
+}
+
+div.data-svar .login div.container .btn:hover,
+div.data-svar .login div.container .btn:focus {
+    box-shadow: 0 0 0 .1rem var(--theme-secondary);
+}
+
+div.data-svar .login .alert {
+    background-color: var(--theme-primary-5);
+    border: 2px solid var(--theme-primary)
+}
+
+div.data-svar .login .toast {
+    border: 2px solid var(--theme-secondary-2)
+}
+
+div.data-svar .login .toast-body {
+    background-color: var(--theme-secondary);
+    color: #ddd
+}
+
+div.data-svar .loginMenu button:focus,
+div.data-svar .loginMenu button:active,
+div.data-svar .loginMenu button {
+    background-color: rgba(0,0,0,0);
+    border: none;
+    box-shadow: none;
+}
+
+div.data-svar .login div.show button,
+div.data-svar .login div.loginMenu button:hover,
+div.data-svar .login div.loginMenu:focus-within button {
+    background-color: var(--theme-secondary) !important
+}
+
+div.data-svar .login .loginMenu a.disabled {
+    color: var(--theme-primary);
+    font-style: italic
+}
+
+
+div.data-svar .login .loginMenu a.disabled:hover,
+div.data-svar .login .loginMenu a.disabled:focus {
+    background-color: transparent
+}
+
+div.data-svar .login .loginMenu a:hover,
+div.data-svar .login .loginMenu a:focus {
+    background-color: var(--theme-secondary-3) !important 
+}
+
+
+/* Navigation, toolbar etc. */
+div.data-svar .navbar {
+    background-color: var(--theme-primary-2);
+    border-bottom: 3px solid var(--theme-primary-4)
+}
+
+div.data-svar .navbar-brand div.logo {
+    background-image: url('./../images/data-svar-plain.png');
+    width: 7.7em
+}
+
+div.data-svar .navbar-nav .nav-link,
+div.data-svar .navbar-nav div.dropdown button {
+    color: #eee !important;
+    border-radius: 4px;
+    border-width: 0
+}
+
+div.data-svar .navbar-nav div.dropdown button {
+    background-color: initial !important;
+    border-width: 0
+}
+
+div.data-svar .navbar-nav div.dropdown.show button,
+div.data-svar .navbar-nav div.dropdown button:hover,
+div.data-svar .navbar-nav div.dropdown button:focus,
+div.data-svar .navbar-nav .nav-link:hover,
+div.data-svar .navbar-nav .nav-link:focus {
+    background-color: var(--theme-primary-7) !important;
+    color: var(--theme-primary-2) !important;   
+}
+
+div.data-svar .navbar-nav a.dropdown-item:hover,
+div.data-svar .navbar-nav a.dropdown-item:focus {
+    background-color: var(--theme-warning-3)
+}
+
+/* Calendar */
+div.data-svar .weekContainer {
+    background: var(--theme-primary-8);
+    border: 1px solid var(--theme-primary-4);
+}
+
+div.data-svar .weekHeader .btn {
+    background-color: initial;
+}
+
+div.data-svar .weekHeader .btn,
+div.data-svar .weekHeader > span {
+    color: var(--theme-primary-2);
+}
+
+div.data-svar .weekHeader .btn:hover:enabled,
+div.data-svar .weekHeader .btn:focus:enabled {
+    color: var(--theme-primary-7);
+    background-color: var(--theme-primary-2);
+}
+
+div.data-svar .dayWrapper {
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: var(--theme-primary-5)
+}
+
+div.data-svar .unlocked {
+    background-color: var(--theme-primary-9)
+}
+
+div.data-svar .locked {
+    background-color: #f3f3f3
+}
+
+div.data-svar .dayWrapper > div {
+    border-right: 1px solid var(--theme-primary-6)
+}
+
+div.data-svar .dayWrapper > div:nth-child(7) {
+    border-right: none
+}
+
+div.data-svar .newTime {
+    color: var(--theme-warning)
+}
+
+div.data-svar .onGoingTime {
+    color: var(--theme-secondary)
+}
+div.data-svar .deleteButton {
+    color: var(--theme-error-3);
+}
+
+div.data-svar .deleteButton:hover:enabled,
+div.data-svar .deleteButton:focus:enabled {
+    background-color: var(--theme-error-2);
+}
+
+div.data-svar div.sk-three-bounce > div {
+    background-color: var(--theme-primary-7);
+}
+
+/* Calendar buttons */
+div.data-svar .copyButton {
+    border: 1px solid var(--theme-confirm);
+    background-color: var(--theme-confirm-2);
+}
+
+div.data-svar .copyButton:hover,
+div.data-svar .copyButton:focus {
+    background-color: var(--theme-confirm);
+}
+
+div.data-svar .trashButton {
+    border: 1px solid var(--theme-error);
+    background-color: var(--theme-error-2);
+}
+
+div.data-svar .trashButton:hover,
+div.data-svar .trashButton:focus {
+    background-color: var(--theme-error);
+}
+
+div.data-svar .lockButton {
+    border: 1px solid var(--theme-warning-2);
+    background-color: var(--theme-warning-3);
+}
+
+div.data-svar .lockButton:hover,
+div.data-svar .lockButton:focus {
+    background-color: var(--theme-warning-2);
+}
+
+div.data-svar .newButton {
+    border: 1px solid var(--theme-success-2);
+    background-color: var(--theme-success-3);
+}
+
+div.data-svar .newButton:hover:enabled,
+div.data-svar .newButton:focus:enabled {
+    background-color: var(--theme-success-2);
+}
+
+div.data-svar .newButton svg {
+    color: var(--theme-success)
+}
+
+div.data-svar .newButton:disabled svg {
+    color: var(--theme-success-2)    
+}
+
+/* Timepicker popout */
+div.data-svar.popoverBasic .validTimespan {
+    color: #333;
+    background-color: var(--theme-success-3);
+    border: 1px solid var(--theme-success-2)
+}
+
+div.data-svar.popoverBasic .validTimespan:hover,
+div.data-svar.popoverBasic .validTimespan:focus {
+    background-color: var(--theme-success-2);
+}
+
+div.data-svar.popoverBasic .invalidTimespan,
+div.data-svar.popoverBasic .invalidTimespan:hover,
+div.data-svar.popoverBasic .invalidTimespan:focus {
+    color: #333;
+    background-color: var(--theme-error-2);
+    border: 1px solid var(--theme-error)
+}
+
+div.data-svar div.ant-picker-focused {
+    border-color: var(--theme-primary-6) !important;
+    box-shadow: 0 0 0 2px var(--theme-primary-shadow)
+}
+
+div.data-svar div.ant-picker:hover,
+div.data-svar div.ant-picker-range:hover,
+div.data-svar div.ant-picker-range:focus {
+    border-color: var(--theme-primary-2) !important;
+}
+
+div.data-svar div.ant-picker-active-bar {
+    background-color: var(--theme-primary-2) !important
+}
+
+div.data-svar button.ant-btn,
+div.data-svar button.ant-btn:hover:enabled,
+div.data-svar button.ant-btn:focus:enabled {
+    color: #333
+}
+
+div.data-svar button.ant-btn {
+    background-color: var(--theme-success-3) !important;
+    border-color: var(--theme-success-2);
+}
+
+div.data-svar button.ant-btn:hover:enabled,
+div.data-svar button.ant-btn:focus:enabled {
+    background-color: var(--theme-success-2) !important;
+    border-color: var(--theme-success-2);
+}
+
+div.data-svar button.ant-btn:disabled {
+    color: #bbb
+}
+
+div.data-svar .ant-picker-time-panel-column > li.ant-picker-time-panel-cell-selected .ant-picker-time-panel-cell-inner {
+    background: var(--theme-warning-3) !important
+}

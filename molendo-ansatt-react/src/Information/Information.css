@@ -1,0 +1,18 @@
+.informationContainer {
+    font-size: 120%;
+    padding-bottom: 3em
+}
+
+.headerLinksContainer {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.italic {
+    font-style: italic
+}
+
+.informationContainer a:hover,
+.informationContainer a:focus {
+    text-decoration: underline;
+}

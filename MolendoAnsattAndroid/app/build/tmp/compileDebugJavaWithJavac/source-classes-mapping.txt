@@ -1,0 +1,55 @@
+oslomet/bachelorprosjekt/molendoansatt/fragments/AlertDialogFragment.java
+ oslomet.bachelorprosjekt.molendoansatt.fragments.AlertDialogFragment
+oslomet/bachelorprosjekt/molendoansatt/fragments/WeeklyPlanFragment.java
+ oslomet.bachelorprosjekt.molendoansatt.fragments.WeeklyPlanFragment
+oslomet/bachelorprosjekt/molendoansatt/requests/DeleteRequestTask.java
+ oslomet.bachelorprosjekt.molendoansatt.requests.DeleteRequestTask
+ oslomet.bachelorprosjekt.molendoansatt.requests.DeleteRequestTask$DeleteRequestListener
+oslomet/bachelorprosjekt/molendoansatt/requests/GetRequestTask.java
+ oslomet.bachelorprosjekt.molendoansatt.requests.GetRequestTask
+ oslomet.bachelorprosjekt.molendoansatt.requests.GetRequestTask$GetRequestListener
+oslomet/bachelorprosjekt/molendoansatt/requests/RequestManager.java
+ oslomet.bachelorprosjekt.molendoansatt.requests.RequestManager
+oslomet/bachelorprosjekt/molendoansatt/NewTimeDialog.java
+ oslomet.bachelorprosjekt.molendoansatt.NewTimeDialog
+ oslomet.bachelorprosjekt.molendoansatt.NewTimeDialog$NewTimeDialogListener
+oslomet/bachelorprosjekt/molendoansatt/DailyPlanAdapter.java
+ oslomet.bachelorprosjekt.molendoansatt.DailyPlanAdapter
+ oslomet.bachelorprosjekt.molendoansatt.DailyPlanAdapter$DailyPlanListener
+ oslomet.bachelorprosjekt.molendoansatt.DailyPlanAdapter$DailyPlanViewHolder
+oslomet/bachelorprosjekt/molendoansatt/BuildConfig.java
+ oslomet.bachelorprosjekt.molendoansatt.BuildConfig
+oslomet/bachelorprosjekt/molendoansatt/InformationActivity.java
+ oslomet.bachelorprosjekt.molendoansatt.InformationActivity
+oslomet/bachelorprosjekt/molendoansatt/ApplicationActivity.java
+ oslomet.bachelorprosjekt.molendoansatt.ApplicationActivity
+oslomet/bachelorprosjekt/molendoansatt/objects/Registration.java
+ oslomet.bachelorprosjekt.molendoansatt.objects.Registration
+oslomet/bachelorprosjekt/molendoansatt/ConfirmationDialog.java
+ oslomet.bachelorprosjekt.molendoansatt.ConfirmationDialog
+ oslomet.bachelorprosjekt.molendoansatt.ConfirmationDialog$DialogClickListener
+oslomet/bachelorprosjekt/molendoansatt/fragments/LogInPhoneFragment.java
+ oslomet.bachelorprosjekt.molendoansatt.fragments.LogInPhoneFragment
+oslomet/bachelorprosjekt/molendoansatt/fragments/DailyPlanFragment.java
+ oslomet.bachelorprosjekt.molendoansatt.fragments.DailyPlanFragment
+oslomet/bachelorprosjekt/molendoansatt/fragments/LogInCodeFragment.java
+ oslomet.bachelorprosjekt.molendoansatt.fragments.LogInCodeFragment
+oslomet/bachelorprosjekt/molendoansatt/requests/PostRequestTask.java
+ oslomet.bachelorprosjekt.molendoansatt.requests.PostRequestTask
+ oslomet.bachelorprosjekt.molendoansatt.requests.PostRequestTask$PostRequestListener
+oslomet/bachelorprosjekt/molendoansatt/fragments/LogInLoadingFragment.java
+ oslomet.bachelorprosjekt.molendoansatt.fragments.LogInLoadingFragment
+oslomet/bachelorprosjekt/molendoansatt/objects/DailyPlanTime.java
+ oslomet.bachelorprosjekt.molendoansatt.objects.DailyPlanTime
+oslomet/bachelorprosjekt/molendoansatt/objects/RegistrationHandler.java
+ oslomet.bachelorprosjekt.molendoansatt.objects.RegistrationHandler
+oslomet/bachelorprosjekt/molendoansatt/Jwt.java
+ oslomet.bachelorprosjekt.molendoansatt.Jwt
+oslomet/bachelorprosjekt/molendoansatt/WeeklyPlanAdapter.java
+ oslomet.bachelorprosjekt.molendoansatt.WeeklyPlanAdapter
+ oslomet.bachelorprosjekt.molendoansatt.WeeklyPlanAdapter$WeeklyPlanListener
+ oslomet.bachelorprosjekt.molendoansatt.WeeklyPlanAdapter$WeeklyPlanViewHolder
+oslomet/bachelorprosjekt/molendoansatt/fragments/HomeFragment.java
+ oslomet.bachelorprosjekt.molendoansatt.fragments.HomeFragment
+oslomet/bachelorprosjekt/molendoansatt/MainActivity.java
+ oslomet.bachelorprosjekt.molendoansatt.MainActivity

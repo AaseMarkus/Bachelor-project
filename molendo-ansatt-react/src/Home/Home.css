@@ -1,0 +1,9 @@
+.homeContainer {
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.homeContainer button {
+    font-size: 1.1rem
+}

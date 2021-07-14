@@ -1,0 +1,118 @@
+{
+    "weekdays": {
+        "0": "Monday",
+        "1": "Tuesday",
+        "2": "Wednesday",
+        "3": "Thursday",
+        "4": "Friday",
+        "5": "Saturday",
+        "6": "Sunday"
+    },
+    "months": {
+        "0": "January",
+        "1": "February",
+        "2": "March",
+        "3": "April",
+        "4": "May",
+        "5": "June",
+        "6": "July",
+        "7": "August",
+        "8": "September",
+        "9": "October",
+        "10": "November",
+        "11": "December"
+    },
+    "login": {
+        "login": "Sign in",
+        "input-phone": "Insert phone number",
+        "phone-invalid": "Phone number not registered",
+        "send-sms": "Send SMS",
+        "code-sent": "An SMS-code has been sent to",
+        "input-code": "Insert code",
+        "code-invalid": "The code is invalid",
+        "menu-title": "Show settings",
+        "menu-service": "Service",
+        "menu-language": "Choose language"
+    },
+    "nav": {
+        "calendar": "Calendar",
+        "information": "Information",
+        "language": "Language",
+        "log-out": "Log out",
+        "menu": "Menu",
+        "home": "Home",
+        "acknowledgements": "Acknowledgements"
+    },
+    "buttons": {
+        "reset": "Reset",
+        "copy": "Copy",
+        "lock": "Lock",
+        "locked": "Locked",
+        "save": "Save",
+        "close": "Close",
+        "delete": "Delete",
+        "back": "Back"
+    },
+    "week": {
+        "week": "Week",
+        "minimize": "Minimize",
+        "expand": "Expand",
+        "navigate": "Navigate",
+        "scroll-left-title": "Scroll left",
+        "scroll-right-title": "Scroll right"
+    },
+    "day": {
+        "day": "Day",
+        "new": "New"
+    },
+    "new": {
+        "start": "Start",
+        "end": "End",
+        "open-ended": "Open-ended",
+        "choose-start": "Choose start time",
+        "set-time": "Set time",
+        "confirm": "Confirm",
+        "invalid": "Invalid"
+    },
+    "save": {
+        "header": "Save status",
+        "intro-title": "Do you want to save the changes in the database?",
+        "intro-subtitle": "This can not be reversed",
+        "save": "Save",
+        "saved": "Saved",
+        "save-successful": "Saved successfully",
+        "save-failed": "An error occurred",
+        "code": "Code",
+        "details": "Details",
+        "if-successful": "Close if successful",
+        "loading-title": "Communicating with database...",
+        "loading-subtitle": "Please wait"
+    },
+    "copy": {
+        "copy-to": "Copy to"
+    },
+    "delete": {
+        "title": "Ongoing shift",
+        "body": "You tried to delete an ongoing shift, are you sure you want to end this shift?",
+        "yes": "Yes",
+        "close": "Close" 
+    },
+    "information": {
+        "acknowledgements-title": "Acknowledgements",
+        "acknowledgements-subtitle": "This web application utilizes open source software and graphics developed by third parties. These are listed below with the licenses they are subject to.",
+        "shiftregistrations-title": "Shift Registrations"
+    },
+    "home": {
+        "not-on-shift": "You are not on a shift",
+        "on-shift-until": "You are on a shift until",
+        "on-shift-openended": "You are on an open-ended shift",
+        "start-shift": "Start shift",
+        "end-shift": "End shift"
+    },
+    "title": {
+        "calendar": "Calendar",
+        "login": "Sign in",
+        "information": "Information",
+        "home": "Roster status"
+    }
+}

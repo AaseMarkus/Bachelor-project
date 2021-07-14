@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+#calendar {
+  padding-bottom: 1em
+}
+
+.weekText {
+  font-size: 150%;
+}
+
+button:disabled {
+  color :#999
+}

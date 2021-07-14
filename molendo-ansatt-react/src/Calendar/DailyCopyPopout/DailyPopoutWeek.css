@@ -1,0 +1,6 @@
+.dayListContainer {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 5px;
+}

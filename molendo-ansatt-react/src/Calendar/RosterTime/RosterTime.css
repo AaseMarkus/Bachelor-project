@@ -1,0 +1,19 @@
+.rosterTime {
+    white-space: nowrap;
+    font-family: 'TitilliumWeb-Light';
+    font-size: 1.1rem
+}
+
+.deleteButton {
+    border: 1px none;
+    padding: 0.03em 0.06em;
+    margin-left: 0.1em;
+    background-color: transparent;
+    font-size: 1.4rem;
+    line-height: 100%;
+    border-radius: 4px   
+}
+
+.deleteButton:disabled svg {
+    color: #999
+}

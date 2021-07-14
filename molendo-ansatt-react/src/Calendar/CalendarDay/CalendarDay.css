@@ -1,0 +1,78 @@
+.dayContainer {
+    padding: 0em 0.7em;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.dayContainer h3,
+.dayContainer h4 {
+    text-align: center;
+}
+.dayContainer h3 {
+    font-size: 1.2rem
+}
+
+.dayContainer h4 {
+    font-size: 1.05rem;
+    font-family: 'TitilliumWeb-Regular'
+}
+
+.dayContainer > ul {
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    padding-left: 0 ;
+}
+
+.dayContainer > ul:first-of-type {
+    white-space: nowrap;
+}
+
+.dayContainer > ul:nth-of-type(2) {
+    flex-grow: 1;
+    text-align: center
+}
+
+.dayContainer > ul:nth-of-type(2) li {
+    padding: 0.05em 0
+}
+
+.dayContainer > ul li {
+    padding: 0.3em;
+}
+
+.dayContainer  > ul:first-of-type li {
+    display: inline-block;
+}
+
+.actionButton {
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 1.5em;
+    padding: 0.2em 0.55em;
+    border-radius: 2px;
+    transition-duration: 0.3s;
+    box-shadow: 0 0.08em 0.1em 0 rgba(0,0,0,0.15), 0 0.15em 0.1em 0 rgba(0,0,0,0.08);
+}
+
+
+.newButton {
+    align-self: center;
+    font-size: 1rem;
+    padding: 0.1em 0.5em;
+}
+
+.newButton svg {
+    margin-left: 0.3em;
+}
+
+.dayDivider {
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:#a793a8;
+    height: 1px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}

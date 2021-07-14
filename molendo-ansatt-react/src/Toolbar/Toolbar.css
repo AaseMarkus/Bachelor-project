@@ -1,0 +1,52 @@
+
+nav.navbar {
+    padding: 0.3rem 1rem
+}
+
+.navbar-nav div.dropdown button,
+.navbar-nav .nav-link {
+    margin-right: 1em;
+    margin-bottom: 0.05em;
+    font-size: 1.1rem;
+    font-family: 'TitilliumWeb-Bold';
+    line-height: 120%;
+    padding: 0.5em 0.7em
+}
+
+.navbar-brand {
+    top: 0.3em;
+    position: absolute
+}
+
+.navbar-brand div.logo {
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    height: 2rem;
+}
+
+.navbar-nav .narrow {
+    display: none
+}
+
+.navbar-nav .dropdown-toggle {
+    margin-right: 0
+}
+
+/* Moving links to dropdown on narrower screens */
+@media only screen and (max-width: 530px) {
+    .navbar-nav .wide {
+        display: none
+    }
+
+    .navbar-nav .narrow {
+        display: block
+    }
+  }
+
+/* Hiding logo on very narrow screens */
+@media only screen and (max-width: 430px) {
+    nav.navbar .navbar-brand {
+        display: none
+    }
+}

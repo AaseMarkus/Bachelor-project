@@ -1,0 +1,51 @@
+.timeInput {
+    border: solid 1px rgb(68, 68, 68);
+    height: 20px;
+    width: 50px;
+    text-align: center;
+    user-select: none;
+}
+
+div.loader {
+    width: 100%;
+    text-align: center;
+}
+
+div.sk-three-bounce {
+    display: inline-block;
+    padding: 2em 4em 5em 4em;
+    border-radius: 5px
+}
+
+div.sk-three-bounce,
+div.sk-three-bounce > div {
+    height: 30px
+}
+
+div.sk-three-bounce > div {
+    width: 30px
+}
+
+
+.timeInput:hover {
+    cursor: pointer;
+}
+
+.weekWrapper {
+    display: inline-flex;
+    flex-direction: column;
+    max-width: 100%;
+    align-items: stretch;
+}
+
+#saveButton {
+    font-size: 1.4rem;
+    position: fixed;
+    bottom: 0.7em;
+    right: 1em
+}
+
+#saveButton svg {
+    height: 1.4rem;
+    margin: 0.2em 0.3em 0.3em 0.1em
+}

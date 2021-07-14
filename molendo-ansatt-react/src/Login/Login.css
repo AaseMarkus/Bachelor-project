@@ -1,0 +1,57 @@
+.login {
+    min-height: 100vh;
+    position: relative
+}
+
+div.login div.logo {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    height: 8em;
+    width: 100%
+}
+
+.login div.container .form-control {
+    width: 240px;
+    font-size: 1.1rem
+}
+
+.login div.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.login div.container .form-text {
+    font-size: 1rem;
+    font-style: italic;
+    padding: 0.2em
+}
+
+.login .toast {
+    margin-top: 1.2em;
+    border-radius: 3px
+}
+
+.toast-body {
+    font-size: 1rem
+}
+
+.login .loginMenu {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    display: inline-block
+}
+
+.loginMenu svg {
+    height: 1.7em;
+    width: 1.7em;
+    margin: 0em 0.1em 0em 0.1em
+}
+
+.backButton {
+    margin-right: 1em
+}

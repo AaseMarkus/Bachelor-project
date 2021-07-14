@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Molendo Ansatt</string>
+
+    <string-array name="weekdays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="credits">
+        <item>Information, Calendar and Reset icons made by Freepik from www.flaticon.com</item>
+        <item>Arrow icon made by Roundicons from www.flaticon.com</item>
+        <item>Home icon made by Dave Gandy from www.flaticon.com</item>
+        <item>Log out icon made by Smashicons from www.flaticon.com</item>
+        <item>Edit and X icons made by Pixel perfect from www.flaticon.com</item>
+        <item>Triangle icon made by Alfredo Hernandez from www.flaticon.com</item>
+        <item>Save icon made by Those Icons from www.flaticon.com</item>
+    </string-array>
+
+    <!-- Log In -->
+    <string name="phone_number">Phone Number</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="code_sent">A login code has been sent on SMS to </string>
+    <string name="enter_code">Enter code</string>
+    <string name="new_code">Send new code</string>
+    <string name="log_in">Log In</string>
+
+    <string name="error_phone">Invalid phone number</string>
+    <string name="error_phone_text">Please make sure you have inputted the correct phone number. If this error message keeps appearing, please contact the technical manager at Molendo AB.</string>
+    <string name="error_code">Invalid code</string>
+    <string name="error_code_text">Please make sure you have inputted the correct code. If this error message keeps appearing, please contact the technical manager at Molendo AB.</string>
+
+    <!-- Home -->
+    <string name="not_on_shift">You are not on a shift</string>
+    <string name="on_shift_set_end">You are on a shift until </string>
+    <string name="on_shift_undecided_end">You are on a shift with an undecided end</string>
+    <string name="start_shift">Start shift</string>
+    <string name="end_shift">End shift</string>
+
+    <!-- Calendar -->
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="dialog_edit">Edit times</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset_dialog_text_day">Are you sure you want to reset set times?</string>
+    <string name="reset_dialog_text_week">Are you sure you want to reset registered shifts?</string>
+    <string name="save_dialog_text">Are you sure you want to save the new shifts?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="edit_times">Edit Times</string>
+    <string name="shift_singular">shift</string>
+    <string name="shift_multiple">shifts</string>
+
+    <!-- Save -->
+    <string name="successful">Successful!</string>
+    <string name="successful_text">Shifts have been saved to the database</string>
+    <string name="save_unsuccessful">Save failed!</string>
+    <string name="status_code">Status code </string>
+
+    <!-- Information -->
+    <string name="information_title">Information</string>
+    <string name="credits_title">Credits</string>
+
+    <!-- Log out -->
+    <string name="log_out_dialog_title">Log out</string>
+    <string name="log_out_dialog_description">Are you sure you want to log out?</string>
+</resources>
