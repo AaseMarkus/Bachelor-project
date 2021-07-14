@@ -10,4 +10,8 @@ When logged in there is a calendar page where you can register your shifts. You 
 <br>
 <img width="300" src="../githubImages/CalendarWeek.PNG">
 <img width="300" src="../githubImages/CalendarDay.PNG">
+<br> <br>
+
+There is also a page for starting a shift or ending an ongoing shift with a single button press.
 <br>
+<img width="900" src="../githubImages/AndroidStartStop.PNG">
